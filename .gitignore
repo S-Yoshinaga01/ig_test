@@ -31,3 +31,5 @@
 *.out
 *.app
 
+# wordファイルの.docxを無視する
+*.docx
